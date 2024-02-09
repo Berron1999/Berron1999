@@ -3,6 +3,9 @@
 </div>  
 
 
+![](https://github.com/Berron1999/Berron1999/blob/main/Captura%20de%20pantalla%202024-02-09%20113827.png)
+
+  
 <div align="center">
   
 ## Sobre mi:
