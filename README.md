@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Mario Berron 😋</h1>
 </div>  
-<img src="https://imgur.com/a/yncGwbl.png">
+
+
 <div align="center">
   
 ## Sobre mi:
