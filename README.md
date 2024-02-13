@@ -1,23 +1,38 @@
+<div align="center">
+<h1 align="center">Hola, soy Mario Berron 😋</h1>
+</div>  
 
-<div id="user-content-toc">
-  <ul align="center">
 
-    <summary><h1 style="display: inline-block">¡Hola, 👋Soy Mario Berron!</h1></summary>
-  </ul>
+![](https://github.com/Berron1999/Berron1999/blob/main/Captura%20de%20pantalla%202024-02-09%20113827.png)
+
+
+<div align="center">
+
+## Sobre mi:
+- Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 </div>
-
-<!--Acerca de mí-->
-<p align="center">
-<a href="https://github.com/Berron1999">
-<a href="https://github.com/Berron1999">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcosremon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcosremon&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br>
-<!--h1 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
+<div align="center">
+  
+## Lenguajes de programación aprendidos:
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+</div>
+<div align="center">
+## IDEs utilizados:
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    
+  </a>
+</div>
     <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
