@@ -34,13 +34,4 @@
     
   </a>
 </div>
-    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--iconos del stack tecnológico-->
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,pycharm,github,html,idea,java,js,linux,mysql,py,vscode&perline=14" />
-  </a>
-</p>
-<br>
+   
