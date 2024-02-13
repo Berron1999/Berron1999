@@ -24,6 +24,7 @@
   </a>
 </div>
 <div align="center">
+  
 ## IDEs utilizados:
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
